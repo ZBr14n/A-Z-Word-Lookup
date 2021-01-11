@@ -1,0 +1,17 @@
+{
+    "theme": {
+      "slug": "newrig",
+      "name": "New Rig",
+      "author": "Brian Lam"
+    },
+    "dev": {
+      "browserSync": {
+        "live": true,
+        "proxyURL": "newdemo.local",
+        "bypassPort": "8181",
+        "https": false
+      }
+    }
+    
+  }
+  
