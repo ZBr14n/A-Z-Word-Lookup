@@ -5,13 +5,13 @@
 
 
 ### Technology used:
-WP-Rig for custom theme dev. boilerplate
-Custom Post Type (PODS framework)
-ACF To Rest API (shows the post type via an API for data acess)
-PHP
-HTML
-CSS
-JS
+- WP-Rig for custom theme dev. boilerplate
+- Custom Post Type (PODS framework)
+- ACF To Rest API (shows the post type via an API for data acess)
+- PHP
+- HTML
+- CSS
+- JS
 
 
 
